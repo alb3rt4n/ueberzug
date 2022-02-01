@@ -6,6 +6,6 @@
 #endif
 
 #define PY_SSIZE_T_CLEAN  // Make "s#" use Py_ssize_t rather than int.
-#include <Python.h>
+#include "Python.h"
 
 #endif
